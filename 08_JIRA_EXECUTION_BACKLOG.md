@@ -71,6 +71,7 @@
 
 ## 6. Jira Import JSON
 
+```json
 {
   "issues": [
     {
@@ -124,6 +125,7 @@
     }
   ]
 }
+```
 
 ## 7. Validation Checklist
 
