@@ -71,6 +71,7 @@
 
 ## 6. Jira Import JSON
 
+```json
 {
   "issues": [
     {
@@ -124,6 +125,7 @@
     }
   ]
 }
+```
 
 ## 7. Validation Checklist
 
@@ -134,7 +136,6 @@
 - [ ] Ready for Phase 09 (and P08 validate)
 
 ## 8. Phase Exit Criteria checklist
-
 - [ ] All epics and stories defined
 - [ ] Engineering tasks outlined and assigned
 - [ ] QA tasks specified and assigned
